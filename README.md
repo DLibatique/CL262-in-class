@@ -3,7 +3,7 @@
 This is a repo for use in CL262, 'Homeric Epic', a Classical Studies course at Boston University in the spring of 2018, taught by [Daniel Libatique](https://twitter.com/DLibatique10).
 
 ## files
-This directory contains all files relating to the weekly assignments -- each filename begins with the due date of the assignment. Files for each assignment are spread out among the following subdirectories:
+This directory contains all files relating to the bi-weekly assignments -- each filename begins with the due date of the assignment. Files for each assignment are spread out among the following subdirectories:
 * **plain_text**: plain text files (OCR-ed from Benner's text and manually corrected),
 * **bridge_vocab_lists**: a vocabulary list (courtesy of [The Bridge](http://bridge.haverford.edu)),
 * **benner_notes**: Benner's notes on the lines in question (courtesy of Perseus), and
