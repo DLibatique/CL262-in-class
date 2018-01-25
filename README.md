@@ -6,8 +6,9 @@ This is a repo for use in CL262, 'Homeric Epic', a Classical Studies course at B
 This directory contains all files relating to the bi-weekly assignments -- each filename begins with the due date of the assignment. Files for each assignment are spread out among the following subdirectories:
 * **plain_text**: plain text files (OCR-ed from Benner's text and manually corrected),
 * **bridge_vocab_lists**: a vocabulary list (courtesy of [The Bridge](http://bridge.haverford.edu)),
-* **benner_notes**: Benner's notes on the lines in question (courtesy of Perseus), and
-* **steadman**: for the selections from Books 6 and 22, the appropriate pages from Steadman's commentary, with vocab and notes on the same page as the text.
+* **benner_notes**: Benner's notes on the lines in question (courtesy of Perseus),
+* **steadman**: for the selections from Books 6 and 22, the appropriate pages from Steadman's commentary, with vocab and notes on the same page as the text, and
+* **texts**: the PDFs for Benner and Steadman.
 
 ## projector.txt
 This file displays the text that is to be projected onto the blackboard/whiteboard.
