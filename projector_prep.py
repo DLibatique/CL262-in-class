@@ -26,7 +26,6 @@ def clean_benner(file):
             english_text.append(line)
 
     #remove notes
-    numbers = '123456789'
     notes_text = []
     for line in english_text:
         if line.startswith(r'[0-9]'):
