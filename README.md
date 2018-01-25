@@ -19,7 +19,7 @@ This script cleans up the Benner snippets in files/plain_text. You can use the f
 $ cd CL262-in-class  
 $ python  
 $ import projector_prep  
-$ projector_prep.write_to_projector('files/plain_text/<FILENAME>')
+$ projector_prep.write_to_projector('files/plain_text/INSERT FILENAME HERE')
 </pre>
 
 *Voilà*! You have the assignment ready to project in **projector.txt**.
