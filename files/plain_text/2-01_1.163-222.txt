@@ -8,8 +8,7 @@
 οἴκαδ' ἴμεν σὺν νηυσὶ κορωνίσιν, οὐδὲ σ' ὀίω (170)
 ἐνθάδ' ἄτιμος ἐὼν ἄφενος καὶ πλοῦντον ἀφύξειν."
 
-// In reply, Agamemnon repeats more definitely his threat
-to take Achilles' prize, Briseis, for his own.
+// In reply, Agamemnon repeats more definitely his threat to take Achilles' prize, Briseis, for his own.
 
     τὸν δ' ἠμείβετ' ἔπειτα ἅναξ ἀνδρῶν Ἀγαμέμνων·
 "φεῦγε μάλ', εἴ τοι θυμὸς ἐπέσσυται· οὐδέ σ' ἐγώ γε
@@ -28,8 +27,7 @@ to take Achilles' prize, Briseis, for his own.
 ὅσσον φέρτερός εἰμι σέθεν, στυγέῃ δὲ καὶ ἄλλος
 ἶσον ἐμοὶ φάσθαι καὶ ὁμοιωθήμεναι ἄντην."
 
-// Achilles' impulse to rush upon Agamemnon and even to
-slay him is stayed by the goddess Athene.
+// Achilles' impulse to rush upon Agamemnon and even to slay him is stayed by the goddess Athene.
 
     ὣς φάτο· Πηλεΐωνι δ' ἄχος γένετ', ἐν δέ οῖ ἦτορ
 στήθεσσιν λασίοισι διάνδιχα μερμήριξεν,

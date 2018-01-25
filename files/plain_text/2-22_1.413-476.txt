@@ -1,5 +1,4 @@
-// Thetis promises to help him. She will visit Olympus on
-Zeus's return from the Ethiopians' festival.
+// Thetis promises to help him. She will visit Olympus on Zeus's return from the Ethiopians' festival.
 
   τὸν δ' ἠμείβετ' ἔπειτα Θέτις κατὰ δάκρυ χέουσα·
 "ὤ μοι, τέκνον ἐμόν, τί νύ σ' ἔτρεφον αἰνὰ τεκοῦσα;
@@ -20,9 +19,7 @@ Zeus's return from the Ethiopians' festival.
 χωόμενον κατὰ θυμὸν ἐυζώνοιο γυναικός,
 τήν ῥα βίῃ ἀέκοντος ἀπηύρων.
 
-// While the days pass before the gods come back to Olympus,
-the poet tells of the voyage to Chryse and the propi-
-tiation of Apollo.
+// While the days pass before the gods come back to Olympus, the poet tells of the voyage to Chryse and the propitiation of Apollo.
 
               αὐτὰρ Ὀδυσσεὺς (430)
 ἐς Χρύσην ἵκανεν ἄγων ἱερὴν ἑκατόμβην.

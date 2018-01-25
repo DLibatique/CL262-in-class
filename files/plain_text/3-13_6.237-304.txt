@@ -1,5 +1,4 @@
-// While the battle is raging, Hector returns to the city.
-He meets his mother.
+// While the battle is raging, Hector returns to the city. He meets his mother.
 
 Ἕκτωρ δ' ὡς Σκαιάς τε πύλας καὶ φηγὸν ἵκανεν,
 ἀμφ' ἄρα μιν Τρώων ἄλοχοι θέον ἠδὲ θύγατρες
@@ -28,9 +27,7 @@ He meets his mother.
 ἀνδρὶ δὲ κεκμηῶτι μένος μέγα οἶνος ἀέξει,
 ὡς τύνη κέκμηκας ἀμύνων σοῖσιν ἔτῃσιν."
 
-// And bids her collect the Trojan dames and make sacrifice
-and prayer to Athene. He himself is going in search of
-Paris.
+// And bids her collect the Trojan dames and make sacrifice and prayer to Athene. He himself is going in search of Paris.
 
     τὴν δ' ἠμείβετ' ἔπειτα μέγας κορυθαίολος Ἕκτωρ·
 "μή μοι οἶνον ἄειρε μελίφρονα, πότνια μῆτερ,
@@ -56,8 +53,7 @@ Paris.
 εἰ κεῖνόν γε ἴδοιμι κατελθόντ' Ἄιδος εἴσω,
 φαίην κεν φρέν' ἀτέρπου ὀιζύος ἐκλελαθέσθαι." (285)
 
-// Hecabe and the other Trojan matrons make sacrifice and
-prayer to Athene in her temple.
+// Hecabe and the other Trojan matrons make sacrifice and prayer to Athene in her temple.
 
     ὣς ἔφαθ'· ἣ δὲ μολοῦσα ποτὶ μέγαρ' ἀμφιπόλοισιν
 κέκλετο· ταὶ δ' ἄρ' ἀόλλισσαν κατὰ ἄστυ γεραιάς.

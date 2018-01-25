@@ -13,8 +13,7 @@
 εἰ δ’ ἄγε μὴν πείρησαι, ἵνα γνώωσι καὶ οἵδε·
 αἶψά τοι αἷμα κελαινὸν ἐρωήσει περὶ δουρί.”
 
-// Chryseis starts on her homeward voyage. The soldiers
-make themselves clean of the plague.
+// Chryseis starts on her homeward voyage. The soldiers make themselves clean of the plague.
 
     ὣς τώ γ’ ἀντιβίοισι μαχεσσαμένω ἐπέεσσιν
 ἀνστήτην, λῦσαν δ’ ἀγορὴν παρὰ νηυσὶν Ἀχαιῶν. (305)
@@ -31,9 +30,7 @@ make themselves clean of the plague.
 ταύρων ἠδ’ αἰγῶν παρὰ θῖν’ ἁλὸς ἀτρυγέτοιο·
 κνίση δ’ οὐρανὸν ἷκεν ἑλισσομένη περὶ καπνῷ.
 
-// At the bidding of Agamemnon, his heralds visit the lodge
-of Achilles and lead away, without resistance, the
-maiden Briseis.
+// At the bidding of Agamemnon, his heralds visit the lodge of Achilles and lead away, without resistance, the maiden Briseis.
 
     ὣς οἳ μὲν τὰ πένοντο κατὰ στρατόν· οὐ δ’ Ἀγαμέμνων
 λῆγ’ ἔριδος, τὴν πρῶτον ἐπήπείλησ’ Ἀχιλῆι,

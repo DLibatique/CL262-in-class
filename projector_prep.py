@@ -2,9 +2,6 @@ import re
 from cltk.tokenize.line import LineTokenizer
 tokenizer = LineTokenizer('latin')
 
-#erase contents of projector file, start fresh
-open('projector.txt', 'w').close()
-
 def clean_benner(file):
     '''prepare cleaned Benner OCR text for
     projector display (Greek only)'''
@@ -17,37 +14,30 @@ def clean_benner(file):
     #tokenize into lines
     text = tokenizer.tokenize(text)
 
-    #remove all English
-    english_text = []
+    #create display text
+    display_text = []
     for line in text:
-        if line.startswith('//'):
-            english_text.append(line.replace(line, ''))
-        else:
-            english_text.append(line)
-
-    #remove notes
-    notes_text = []
-    for line in english_text:
-        if line != '' and line[0].isnumeric():
-            notes_text.append(line.replace(line, ''))
-        else:
-            notes_text.append(line)
-
-    #remove orphan notes
-    orphan_text = []
-    for line in notes_text:
+        #remove all English and notes
         if re.search(r'[a-zA-Z]', line):
-            orphan_text.append(line.replace(line,''))
+            display_text.append(line.replace(line, ''))
         else:
-            orphan_text.append(line)
+            display_text.append(line)
 
-    final_text = '\n\n\n\n'.join(orphan_text)
-    final_text = final_text.replace('\n\n\n\n\n\n', '\n\n\n\n')
+    final_text = '\n\n\n\n'.join(display_text)
+    while '\n\n\n\n\n\n' in final_text:
+        final_text = final_text.replace('\n\n\n\n\n\n', '\n\n\n\n')
 
     return final_text
 
-display = clean_benner('files/plain_text/1-30_1.101-162.txt')
+def write_to_projector(old_file, new_file='projector.txt'):
 
-outfile = open('projector.txt', 'w')
-outfile.write(display)
-outfile.close()
+    #erase contents of projector file, start fresh
+    open(new_file, 'w').close()
+
+    #prep new text to write to file
+    display = clean_benner(old_file)
+
+    #write new text to file
+    outfile = open(new_file, 'w')
+    outfile.write(display)
+    outfile.close()

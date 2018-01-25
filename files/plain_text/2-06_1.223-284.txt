@@ -1,6 +1,4 @@
-// Achilles swears a mighty oath to hold aloof from battle,
-while Agamemnon shall be discomfited and many Achae-
-ans slain.
+// Achilles swears a mighty oath to hold aloof from battle, while Agamemnon shall be discomfited and many Achaeans slain.
 
 Πηλεΐδης δ' ἐξαῦτις ἀταρτηροῖς ἐπέεσσιν
 Ἀτρεΐδην προσέειπε καὶ οὔ πω λῆγε χόλοιο·
@@ -25,8 +23,7 @@ ans slain.
 θνῄσκοντες πίπτωσι· σὺ δ' ἔνδοθι θυμὸν ἀμύξεις
 χωόμενος, ὅ τ' ἄριστον Ἀχαιῶν οὐδὲν ἔτισας."
 
-// Nestor, as peacemaker, tries to calm the anger of the
-chiefs.
+// Nestor, as peacemaker, tries to calm the anger of the chiefs.
 
     ὣς φάτο Πηλεΐδης, ποτὶ δὲ σκῆπτρον βάλε γαίῃ (245)
 χρυσείοις ἥλοισι πεπαρμένον, ἕζετο δ' αὐτός·

@@ -1,5 +1,4 @@
-// Achilles seeks consolation in his prayer to his goddess
-mother.
+// Achilles seeks consolation in his prayer to his goddess mother.
 
             αὐτὰρ Ἀχιλλεὺς
 δακρύσας ἑτάρων ἄφαρ ἕζετο νόσφι λιασθεὶς
@@ -18,8 +17,7 @@ mother.
     "τέκνον, τί κλαίεις; τί δέ σε φρένας ἵκετο πένθος;
 ἐξαύδα, μὴ κεῦθε νόῳ, ἵνα εἴδομεν ἅμφω."
 
-// He tells his wrongs, and implores her to persuade Zeus to
-bring disaster on Agamemnon and his soldiers.
+// He tells his wrongs, and implores her to persuade Zeus to bring disaster on Agamemnon and his soldiers.
 
     τὴν δὲ βαρὺ στενάχων προσέφη πόδας ὠκὺς Ἀχιλλεύς·
 "οἶσθα· τί ἦ τοι ταῦτα ἰδυίῃ πάντ' ἀγορεύω; (365)

@@ -1,6 +1,4 @@
-// He does not nfind her at home, but is told that she has
-hurried to the Great Tower, with her infant boy and
-nurse.
+// He does not nfind her at home, but is told that she has hurried to the Great Tower, with her infant boy and nurse.
 
 ὣς ἄρα φωνήσας ἀπέβη κορυθαίολος Ἕκτωρ
 αἶψα δ' ἔπειθ' ἵκανε δόμους ἐὺ ναιετάοντας. (370)
@@ -24,8 +22,7 @@ nurse.
 ἣ μὲν δὴ πρὸς τεῖχος ἐπειγομένη ἀφικάνει,
 μαινομένῃ ἐικυῖα· φέρει δ' ἅμα παῖδα τιθήνη."
 
-// Hastening thither, he meets her. She implores him to stay 
-on the tower and not to risk his life on the field.
+// Hastening thither, he meets her. She implores him to stay on the tower and not to risk his life on the field.
 
     ἦ ῥα γυνὴ ταμίη· ὃ δ' ἀπέσσυτο δώματος Ἕκτωρ (390)
 τὴν αὐτὴν ὁδὸν αὖτις ἐυκτιμένας κατ' ἀγυιάς.

@@ -59,13 +59,10 @@
 ἀμβρόσιαι δ' ἄρα χαῖται ἐπερρώσαντο ἄνακτος
 κρατὸς ἀπ' ἀθανάτοιο, μέγαν δ' ἐλέλιξεν Ὄλυμπον. (530)
 
-// Here, suspicious of designs against her favorite Greeks,
-vexes Zeus with questioning and draws upon herself
-severe rebuke.
+// Here, suspicious of designs against her favorite Greeks, vexes Zeus with questioning and draws upon herself severe rebuke.
 
     τώ γ' ὣς βουλεύσαντε διέτμαγεν· ἣ μὲν ἔπειτα
 εἰς ἅλα ἄλτο βαθεῖαν ἀπ' αἰγλήεντος Ὀλύμπου,
-
 Ζεὺς δὲ ἑὸν πρὸς δῶμα. θεοὶ δ' ἅμα πάντες ἀνέσταν
 ἐξ ἑδέων σφοῦ πατρὸς ἐναντίον, οὐδέ τις ἔτλη
 μεῖναι ἐπερχόμενον, ἀλλ' ἀντίοι ἔσταν ἅπαντες. (535)
