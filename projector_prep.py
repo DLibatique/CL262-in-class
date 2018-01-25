@@ -28,13 +28,20 @@ def clean_benner(file):
     #remove notes
     notes_text = []
     for line in english_text:
-        if line.startswith(r'[0-9]'):
-            print(line)
+        if line != '' and line[0].isnumeric():
             notes_text.append(line.replace(line, ''))
         else:
             notes_text.append(line)
 
-    final_text = '\n\n\n\n'.join(notes_text)
+    #remove orphan notes
+    orphan_text = []
+    for line in notes_text:
+        if re.search(r'[a-zA-Z]', line):
+            orphan_text.append(line.replace(line,''))
+        else:
+            orphan_text.append(line)
+
+    final_text = '\n\n\n\n'.join(orphan_text)
     final_text = final_text.replace('\n\n\n\n\n\n', '\n\n\n\n')
 
     return final_text
