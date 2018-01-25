@@ -16,9 +16,9 @@ This file displays the text that is to be projected onto the blackboard/whiteboa
 This script cleans up the Benner snippets in files/plain_text. You can use the following code to load the text for the class in question.
 
 `
-$ cd CL262-in-class
-$ python
-$ import projector_prep
+$ cd CL262-in-class  
+$ python  
+$ import projector_prep  
 $ projector_prep.write_to_projector('files/plain_text/<filename>)
 `
 
