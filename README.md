@@ -13,10 +13,10 @@ This directory contains all files relating to the weekly assignments -- each fil
 This file displays the text that is to be projected onto the blackboard/whiteboard.
 
 ## projector_prep.py
-This script cleans up the Benner snippets in files/plain_text. You can use the following code to load the text for the class in question.
+This script cleans up the Benner snippets in files/plain_text in anticipation of projecting the text onto the blackboard/whiteboard. You can use the following code in your terminal to load the text for the class in question.
 
 <pre>
-$ cd CL262-in-class  
+$ cd CL262-in-class  #or navigate to whatever directory you've cloned this repo into
 $ python  
 $ import projector_prep  
 $ projector_prep.write_to_projector('files/plain_text/INSERT FILENAME HERE')
