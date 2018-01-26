@@ -14,14 +14,11 @@ def clean_benner(file):
     #tokenize into lines
     text = tokenizer.tokenize(text)
 
-    #create display text
-    display_text = []
-    for line in text:
-        #remove all English and notes
-        if re.search(r'[a-zA-Z]', line):
-            display_text.append(line.replace(line, ''))
-        else:
-            display_text.append(line)
+    #remove lines with Roman characters
+    display_text = [line.replace(line, '')
+        if re.search(r'[a-zA-Z]', line)
+        else line
+        for line in text]
 
     final_text = '\n\n\n\n'.join(display_text)
     while '\n\n\n\n\n\n' in final_text:
