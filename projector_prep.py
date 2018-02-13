@@ -38,3 +38,6 @@ def write_to_projector(old_file, new_file='projector.txt'):
     outfile = open(new_file, 'w')
     outfile.write(display)
     outfile.close()
+
+write_to_projector('files/plain_text/2-08_1.285-348.txt')
+#write_to_projector('files/plain_text/2-13_1.348-412.txt')
