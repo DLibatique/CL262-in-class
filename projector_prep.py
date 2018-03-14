@@ -1,6 +1,11 @@
+'''
+Written by Daniel Libatique (@DLibatique10).
+A module to prepare text files for projection onto a blackboard/whiteboard.
+'''
+
 import re
 from cltk.tokenize.line import LineTokenizer
-tokenizer = LineTokenizer('latin')
+TOKENIZER = LineTokenizer('latin')
 
 def clean_benner(file):
     '''prepare cleaned Benner OCR text for
@@ -12,13 +17,10 @@ def clean_benner(file):
     infile.close()
 
     #tokenize into lines
-    text = tokenizer.tokenize(text)
+    text = TOKENIZER.tokenize(text)
 
     #remove lines with Roman characters
-    display_text = [line.replace(line, '')
-        if re.search(r'[a-zA-Z]', line)
-        else line
-        for line in text]
+    display_text = [line.replace(line, '') if re.search(r'[a-zA-Z]', line) else line for line in text]
 
     final_text = '\n\n\n\n'.join(display_text)
     while '\n\n\n\n\n\n' in final_text:
@@ -27,6 +29,9 @@ def clean_benner(file):
     return final_text
 
 def write_to_projector(old_file, new_file='projector.txt'):
+    '''
+    overwrite projector file with new cleaned up text
+    '''
 
     #erase contents of projector file, start fresh
     open(new_file, 'w').close()
@@ -39,5 +44,5 @@ def write_to_projector(old_file, new_file='projector.txt'):
     outfile.write(display)
     outfile.close()
 
-write_to_projector('files/plain_text/2-08_1.285-348.txt')
-#write_to_projector('files/plain_text/2-13_1.348-412.txt')
+write_to_projector('files/plain_text/3-13_6.237-304.txt')
+#write_to_projector('files/plain_text/3-15_6.305-368.txt')
