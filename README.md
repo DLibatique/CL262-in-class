@@ -18,7 +18,7 @@ This file displays the text that is to be projected onto the blackboard/whiteboa
 ## projector_prep.py
 This script cleans up the Benner snippets in files/plain_text in anticipation of projecting the text onto the blackboard/whiteboard. You can use the following code in your terminal to load the text for the class in question.
 
-## copy.py
+## copy_to_website.py
 This script copies corrections that I make to files in this repo to the repo for my personal website (and source of the course files).
 
 <pre>
