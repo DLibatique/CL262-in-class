@@ -4,8 +4,8 @@ A module to prepare text files for projection onto a blackboard/whiteboard.
 '''
 
 import re
-from cltk.tokenize.line import LineTokenizer
-TOKENIZER = LineTokenizer('latin')
+#from cltk.tokenize.line import LineTokenizer
+#TOKENIZER = LineTokenizer('latin')
 
 def clean_benner(file):
     '''prepare cleaned Benner OCR text for
@@ -17,7 +17,7 @@ def clean_benner(file):
     infile.close()
 
     #tokenize into lines
-    text = TOKENIZER.tokenize(text)
+    text = text.split('\n')
 
     #remove lines with Roman characters
     display_text = [line.replace(line, '') if re.search(r'[a-zA-Z]', line) else line for line in text]
@@ -44,5 +44,5 @@ def write_to_projector(old_file, new_file='projector.txt'):
     outfile.write(display)
     outfile.close()
 
-#write_to_projector('files/plain_text/3-13_6.237-304.txt')
-write_to_projector('files/plain_text/3-15_6.305-368.txt')
+write_to_projector('files/plain_text/3-20_6.369-439.txt')
+#write_to_projector('files/plain_text/3-22_6.440-502.txt')
