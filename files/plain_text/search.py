@@ -5,12 +5,14 @@ from cltk.tokenize.sentence import TokenizeSentence
 import re
 from os import listdir
 from os.path import isfile, join
-onlyfiles = [f for f in listdir('/') if isfile(join('/', f))]
+textfiles = [f for f in listdir('.') if f.endswith('.txt')]
 
 #word_tokenizer = WordTokenizer('greek')
 tokenizer = TokenizeSentence('greek')
 
-for file in onlyfiles:
+for file in textfiles:
+    print(file)
+
     infile = open(file)
     text = infile.read()
     infile.close()
