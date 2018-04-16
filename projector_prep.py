@@ -44,4 +44,4 @@ def write_to_projector(old_file, new_file='projector.txt'):
     outfile.write(display)
     outfile.close()
 
-write_to_projector('files/plain_text/4-10_22.168-237.txt')
+write_to_projector('files/plain_text/4-12_22.238-305.txt')

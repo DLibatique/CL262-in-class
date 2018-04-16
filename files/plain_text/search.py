@@ -5,7 +5,7 @@ from cltk.tokenize.sentence import TokenizeSentence
 import re
 from os import listdir
 from os.path import isfile, join
-onlyfiles = [f for f in listdir('files/plain_text') if isfile(join('files/plain_text', f))]
+onlyfiles = [f for f in listdir('/') if isfile(join('/', f))]
 
 #word_tokenizer = WordTokenizer('greek')
 tokenizer = TokenizeSentence('greek')
